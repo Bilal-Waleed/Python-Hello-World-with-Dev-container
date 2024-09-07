@@ -1,3 +1,6 @@
+# Python-Hello-world-with-dev-containar
+This repository contains a basic Python project set up with a development container using Visual Studio Code. The project demonstrates a simple "Hello, World!" script, and the development environment is fully configured with Docker to ensure consistency across different systems.
+Here's a step-by-step guide to creating a Markdown file in GitHub and setting up a Python `Hello-World` project with a development container using VS Code:
 
 ```markdown
 Python Hello World in Docker with VS Code Dev Container
