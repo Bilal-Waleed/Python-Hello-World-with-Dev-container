@@ -1,4 +1,3 @@
-Here’s a well-structured `README.md` file that explains the process you described, following best practices for clarity and detail:
 
 ```markdown
 Python Hello World in Docker with VS Code Dev Container
@@ -11,7 +10,7 @@ Before starting, ensure you have the following installed:
 - [VS Code](https://code.visualstudio.com/)
 - [Remote - Containers Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
- Steps
+Steps:
 
 Step 1: Open VS Code
 Launch Visual Studio Code on your machine.
@@ -72,8 +71,8 @@ Congratulations!
 Your Python app is now running inside a Docker container using VS Code's Dev Containers! 🎉
 ```
 
-### Explanation of Improvements:
-1. **Structure**: Each step is clearly outlined with headers, making it easy to follow.
-2. **Formatting**: Code blocks are properly formatted and separated for clarity.
-3. **Commands & Output**: Each command has a description, and the expected output is mentioned.
-4. **Extras**: Added prerequisites and a congratulatory message at the end to enhance user experience.
+Explanation of Improvements:
+1. Structure: Each step is clearly outlined with headers, making it easy to follow.
+2. Formatting: Code blocks are properly formatted and separated for clarity.
+3. Commands & Output: Each command has a description, and the expected output is mentioned.
+4. Extras: Added prerequisites and a congratulatory message at the end to enhance user experience.
